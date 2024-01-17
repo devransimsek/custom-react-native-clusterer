@@ -1,3 +1,12 @@
+# DO NOT USE
+
+
+# IT IS A COPY OF react-native-clusterer
+
+
+
+
+
 # React Native Clusterer
 
 The most comprehensive and yet easiest to use react native point clustering library. Uses c++ implementation of [supercluster](https://github.com/mapbox/supercluster) and JSI bindings for up to 10x faster initial point loading times than its JavaScript counterpart.
